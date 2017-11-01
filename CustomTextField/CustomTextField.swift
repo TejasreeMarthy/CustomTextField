@@ -2,7 +2,7 @@
 //  CustomTextField.swift
 //  swift-custom-ui
 //
-//  Created by Aruna Kumari Yarra on 06/06/17.
+//  Created by Tejasree Marthy on 30/10/17.
 //  Copyright © 2017 Innominds Mobility. All rights reserved.
 
 import UIKit
