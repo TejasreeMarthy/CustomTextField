@@ -9,7 +9,7 @@ pod 'InnoCustomTextField'
 
 save the file 
 Go to terminal and go to your project root directory
-and run this below command
+and run this command
 pod update
 
 Now the CustomTexfield folder will be in your pods
